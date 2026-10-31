@@ -194,7 +194,7 @@ life-plan-audit/
 │   ├── plan-template.md                # 财务测算、14 天实验、Life Baseline、复盘九问
 │   ├── report-template.md              # 18 节报告 + 奥德赛三版本
 │   └── safety-protocol.md              # 危机识别、处置五步、语气对照
-├── assets/                             # 5 张方法卡（PNG）
+├── assets/                             # 6 张方法卡（PNG）
 ├── LICENSE
 └── README.md
 ```
