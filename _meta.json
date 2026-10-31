@@ -1,0 +1,20 @@
+{
+  "display_name": "人生审计",
+  "display_name_en": "Life Plan Audit",
+  "description_zh": "不是问卷，是审计。先从日记/简历挖事实，再按批量问卷或深度访谈补齐缺口，全程证据分级、自欺检测与反宿命论证伪，最终产出带数字、带 14 天受控实验、带放弃清单的规划，并在第 14 天强制闭环复盘。",
+  "description_en": "An audit, not a questionnaire. Mines facts from your own records first, interviews in either batch or deep mode, grades every conclusion by evidence level, stress-tests self-limiting beliefs, and delivers a plan with a 14-day controlled experiment and a mandatory day-14 review.",
+  "version": "2.0.0",
+  "author": "4568876543",
+  "license": "MIT",
+  "tags": ["life-planning", "career", "self-audit", "critical-thinking", "decision-making", "behavior-change"],
+  "references": [
+    "references/question-bank.md",
+    "references/interview-protocol.md",
+    "references/evidence-rules.md",
+    "references/falsification-protocol.md",
+    "references/analysis-framework.md",
+    "references/plan-template.md",
+    "references/report-template.md",
+    "references/safety-protocol.md"
+  ]
+}
